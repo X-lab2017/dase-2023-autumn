@@ -24,7 +24,7 @@ Introduction to Data Science and Engineering - 2023 Autumn
 
 | 周数📆 | 日期🕣 | 内容📒 | 主讲💂‍♂️ | 本周任务 📌| 课件📘 |开放资源📂 |
 | :----: | :----: | ------ | :----------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-|   01   | 09-12 | 数据科学概述 | [@will-ww](https://github.com/will-ww) | [任务01](https://github.com/X-lab2017/ds-2023-autumn/issues/1) |[课件01](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture01) |[资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
+|   01   | 09-12 | 数据科学概述 | [@will-ww](https://github.com/will-ww) | [任务01](https://github.com/X-lab2017/dase-2023-autumn/issues/1) |[课件01](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture01) |[资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource) |
 |   02   | 09-19 | Python 语言 | [@will-ww](https://github.com/will-ww) |     |    |    |
 
 ---
@@ -35,7 +35,7 @@ Introduction to Data Science and Engineering - 2023 Autumn
 - **《数据科学与工程导论》**：https://github.com/will-ww/IntroDaSE
 
 <div align=center>
-<img src="https://github.com/X-lab2017/ds-2023-autumn/assets/15010826/10aa5862-d514-493b-a119-fb40d9f17499" width="550px">
+<img src="https://github.com/X-lab2017/dase-2023-autumn/assets/15010826/10aa5862-d514-493b-a119-fb40d9f17499" width="550px">
 </div>
 
 
