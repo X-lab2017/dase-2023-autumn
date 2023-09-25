@@ -25,8 +25,8 @@ Introduction to Data Science and Engineering - 2023 Autumn
 | 周数📆 | 日期🕣 | 内容📒 | 主讲💂‍♂️ | 本周任务 📌| 课件📘 |开放资源📂 |
 | :----: | :----: | ------ | :----------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
 |   01   | 09-12 | 数据科学概述 | [@will-ww](https://github.com/will-ww) | [任务01](https://github.com/X-lab2017/dase-2023-autumn/issues/2) |[课件01](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture01) |[资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource) |
-|   02   | 09-19 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) |  [任务02](https://github.com/X-lab2017/dase-2023-autumn/issues/5)   |  [课件02](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture02)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-
+|   02   | 09-19 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) |  [任务02](https://github.com/X-lab2017/dase-2023-autumn/issues/3)   |  [课件02](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture02)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   03   | 09-26 | 数据的模型与结构 | [@will-ww](https://github.com/will-ww) |  [任务03](https://github.com/X-lab2017/dase-2023-autumn/issues/17)   |  [课件03](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture03)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 ---
 
 
