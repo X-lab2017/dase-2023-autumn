@@ -27,6 +27,7 @@ Introduction to Data Science and Engineering - 2023 Autumn
 |   01   | 09-12 | 数据科学概述 | [@will-ww](https://github.com/will-ww) | [任务01](https://github.com/X-lab2017/dase-2023-autumn/issues/2) |[课件01](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture01) |[资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource) |
 |   02   | 09-19 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) |  [任务02](https://github.com/X-lab2017/dase-2023-autumn/issues/3)   |  [课件02](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture02)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   03   | 09-26 | 数据的模型与结构 | [@will-ww](https://github.com/will-ww) |  [任务03](https://github.com/X-lab2017/dase-2023-autumn/issues/17)   |  [课件03](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture03)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+<<<<<<< HEAD
 |   04   | 10-02 |  |  |     |    |    |
 |   05   | 10-09 | 数据的计算与程序表达 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   07   | 10-10 | 计算基础设施 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
@@ -42,6 +43,7 @@ Introduction to Data Science and Engineering - 2023 Autumn
 |   16   | 12-19 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   17   | 12-26 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 
+|   04   | 10-10 | 数据的计算与程序表达 | [@will-ww](https://github.com/will-ww) |  [任务04](https://github.com/X-lab2017/dase-2023-autumn/issues/20)   |  [课件04](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture04)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 ---
 
 
