@@ -27,19 +27,20 @@ Introduction to Data Science and Engineering - 2023 Autumn
 |   01   | 09-12 | 数据科学概述 | [@will-ww](https://github.com/will-ww) | [任务01](https://github.com/X-lab2017/dase-2023-autumn/issues/2) |[课件01](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture01) |[资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource) |
 |   02   | 09-19 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) |  [任务02](https://github.com/X-lab2017/dase-2023-autumn/issues/3)   |  [课件02](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture02)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   03   | 09-26 | 数据的模型与结构 | [@will-ww](https://github.com/will-ww) |  [任务03](https://github.com/X-lab2017/dase-2023-autumn/issues/17)   |  [课件03](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture03)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   04   | 10-09 | 数据的计算与程序表达 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   05   | 10-10 | 计算基础设施 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   06   | 10-17 | 数据的全生命周期管理 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   07   | 10-24 | 数据库系统 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   08   | 10-31 | 数据科学过程 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   09   | 11-07 | 统计分析的原理 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   10   | 11-14 | 机器学习方法 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   11   | 11-21 | 深度学习 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   12   | 11-28 | 数据挖掘基础 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   13   | 12-05 | 非结构化数据挖掘 | |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   14   | 12-12 | 数据道德与职业行为准则 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   15   | 12-19 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   16   | 12-26 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   04   | 10-02 |  |  |     |    |    |
+|   05   | 10-09 | 数据的计算与程序表达 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   07   | 10-10 | 计算基础设施 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   08   | 10-17 | 数据的全生命周期管理 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   09   | 10-24 | 数据库系统 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   00   | 10-31 | 数据科学过程 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   10   | 11-07 | 统计分析的原理 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   11   | 11-14 | 机器学习方法 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   12   | 11-21 | 深度学习 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   13   | 11-28 | 数据挖掘基础 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   14   | 12-05 | 非结构化数据挖掘 | |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   15   | 12-12 | 数据道德与职业行为准则 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   16   | 12-19 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   17   | 12-26 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 
 ---
 
