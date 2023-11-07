@@ -31,8 +31,8 @@ Introduction to Data Science and Engineering - 2023 Autumn
 |   05   | 10-10 | 数据的计算与程序表达 | [@will-ww](https://github.com/will-ww) |  [任务04](https://github.com/X-lab2017/dase-2023-autumn/issues/20)   |  [课件04](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture04)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   06   | 10-17 | 计算基础设施 | [@will-ww](https://github.com/will-ww) |  -   |  [课件05](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture05)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   07   | 10-24 | 运动会 |  |     |    |    |
-|   08   | 10-31 | 数据的全生命周期管理 | [@will-ww](https://github.com/will-ww) |  [任务06](https://github.com/X-lab2017/dase-2023-autumn/issues/27)   |  [课件06](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture05)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   09   | 11-07 | 数据库系统 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   08   | 10-31 | 数据的全生命周期管理 | [@will-ww](https://github.com/will-ww) |  [任务06](https://github.com/X-lab2017/dase-2023-autumn/issues/27)   |  [课件06](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture06)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   09   | 11-07 | 数据库系统 | [@will-ww](https://github.com/will-ww) |  [任务07](https://github.com/X-lab2017/dase-2023-autumn/issues/28)   |  [课件07](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture07)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   10   | 11-14 | 数据科学过程 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   11   | 11-21 | 统计分析的原理 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   12   | 11-28 | 机器学习方法 | [@will-ww](https://github.com/will-ww) |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
