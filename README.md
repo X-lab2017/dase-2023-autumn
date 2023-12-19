@@ -38,7 +38,7 @@ Introduction to Data Science and Engineering - 2023 Autumn
 |   12   | 11-28 | 机器学习方法 | [@will-ww](https://github.com/will-ww) |  [任务10](https://github.com/X-lab2017/dase-2023-autumn/issues/40)   |  [课件10](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture10)   | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   13   | 12-05 | 开源数字生态 | [@will-ww](https://github.com/will-ww) |  [任务11](https://github.com/X-lab2017/dase-2023-autumn/issues/43)   |  [课件11](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture11)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   14   | 12-12 | 数据挖掘基础 | 周昉 |  [任务12](https://github.com/X-lab2017/dase-2023-autumn/issues/48)   |  [课件12](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture11)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   15   | 12-19 | 非结构化数据挖掘 | |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
+|   15   | 12-19 | 非结构化数据挖掘 | |  [任务13](https://github.com/X-lab2017/dase-2023-autumn/issues/49)   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   16   | 12-26 | 数据道德与职业行为准则 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   17   | 01-02 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   18   | 01-09 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
