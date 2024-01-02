@@ -41,8 +41,6 @@ Introduction to Data Science and Engineering - 2023 Autumn
 |   15   | 12-19 | 非结构化数据挖掘 | zhoufang |  [任务13](https://github.com/X-lab2017/dase-2023-autumn/issues/49)   |  [课件13](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture13)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   16   | 12-26 | 人工智能与数据安全 | [@will-ww](https://github.com/will-ww)  |  [任务14](https://github.com/X-lab2017/dase-2023-autumn/issues/53)   |  [课件14](https://github.com/X-lab2017/dase-2023-autumn/tree/main/lecture14)  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
 |   17   | 01-02 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-|   18   | 01-09 | 综合案例 |  |  [任务]   |  [课件]  | [资料](https://github.com/X-lab2017/dase-2023-autumn/tree/main/resource)   |
-
 
 ---
 
